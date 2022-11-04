@@ -1,7 +1,7 @@
 # Aprendizado-nao-supervisionado-primeiras-tecnicas-e-metodos
 
-- Aprendizado não supervisionado identifica padroes desconhecidos, encontrar semelhaças ou diferenças 
-nos dados, porque não tem dados rotulados, ou classes definidas
+- Aprendizado não supervisionado é quando o sistema não tem conhecimento previo sobre os dados, o programa automaticamente 
+pode identificar padroes desconhecidos, encontrar semelhanças e diferenças nos dados.
 
 Técnicas de aprendizado não supervisionado:
 
