@@ -9,3 +9,5 @@ para fazer isso eu gero um conjunto de dados frequentes e faço um contagem para
 
 - Suport: número de itens vendidos divido por transações (uma porcentagem), vou estipular que será um conjunto frequente se tiver 3 conjuntos
 - Confiança: mede a frequencia que os itens do conjunto X apareceu na transações dos conjuntos X
+
+É necessario nesse momento a continuação do tratamento da minha lista de transacoes, pois estão como objeto e eu preciso que estejam como boleano para o processamento ser feito, vou usar 
